@@ -1,6 +1,6 @@
-# hcm2i-webapp
+# VuePrjSample
 
-> HC M2I Web app
+> Vue sample Web app
 
 ## Build Setup
 
