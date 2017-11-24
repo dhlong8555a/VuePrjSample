@@ -1,7 +1,7 @@
 {
-  "name": "hcm2i-webapp",
+  "name": "VuePrjSample",
   "version": "1.0.0",
-  "description": "HC M2I Web app",
+  "description": "Vue sample web app",
   "author": "hailong.dang <hailong.dang@advantech.com.cn>",
   "private": true,
   "scripts": {
